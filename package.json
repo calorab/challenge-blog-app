@@ -1,0 +1,28 @@
+{
+  "name": "challenge-blog-app",
+  "version": "1.0.0",
+  "description": "CRUD for blogging app",
+  "main": "blogPostsRouter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calorab/challenge-blog-app.git"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "author": "Caleb Gammon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calorab/challenge-blog-app/issues"
+  },
+  "homepage": "https://github.com/calorab/challenge-blog-app#readme",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  }
+}
